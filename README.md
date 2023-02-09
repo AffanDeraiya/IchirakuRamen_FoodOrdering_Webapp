@@ -1,2 +1,5 @@
-# IchirakuRamen_Webapp
- An online food ordering system webapp for the Ichiraku ramen restaurant made using HTML,CSS,Javascript,Bootsrap and jQuery
+# Ichirakuramen_webapp
+ An online ordering system webapp for the Ichiraku Ramen Restaurant made using HTML,CSS,Javascript, Bootstrap, JQuery
+
+You can access the hosted website using:
+https://surabiiiii.github.io/Ichirakuramen_webapp/
